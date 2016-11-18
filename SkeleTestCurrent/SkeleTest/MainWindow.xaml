@@ -1,0 +1,16 @@
+﻿<Window x:Class="SkeleTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SkeleTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="660">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="480" Margin="0,0,0,-9.6" VerticalAlignment="Top" Width="640">
+            <Image x:Name="Vid" HorizontalAlignment="Left" Height="480" VerticalAlignment="Top" Width="640" Loaded="Window_Loaded"/>
+            <Image x:Name="Fox" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="150" Source="C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\fox.jpg" Canvas.Left="274" Canvas.Top="175" />
+        </Canvas>
+
+    </Grid>
+</Window>

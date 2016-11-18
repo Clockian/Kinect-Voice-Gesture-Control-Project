@@ -1,0 +1,78 @@
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe.config
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\bin\Debug\SkeleTest.pdb
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\bin\Debug\Microsoft.Kinect.dll
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\bin\Debug\Microsoft.Kinect.xml
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest.csprojResolveAssemblyReference.cache
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\MainWindow.g.cs
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\App.g.cs
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.cache
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.lref
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\MainWindow.baml
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest.g.resources
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest.Properties.Resources.resources
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest.csproj.GenerateResource.Cache
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest.exe
+c:\users\saldo\onedrive\documents\visual studio 2015\Projects\SkeleTest\SkeleTest\obj\Debug\SkeleTest.pdb
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe.config
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest.exe
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest.pdb
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\bin\Debug\SkeleTest.pdb
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest.csprojResolveAssemblyReference.cache
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\MainWindow.g.cs
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\App.g.cs
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.cache
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.lref
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\MainWindow.baml
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest.g.resources
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest.Properties.Resources.resources
+C:\Users\saldo\Desktop\SkeleTest\SkeleTest\obj\Debug\SkeleTest.csproj.GenerateResource.Cache
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe.config
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest.exe
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest.pdb
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\bin\Debug\SkeleTest.pdb
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest.csprojResolveAssemblyReference.cache
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\MainWindow.g.cs
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\App.g.cs
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.cache
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.lref
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\MainWindow.baml
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest.g.resources
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest.Properties.Resources.resources
+C:\Users\Jasque\Desktop\project kinect\SkeleTest\SkeleTest\obj\Debug\SkeleTest.csproj.GenerateResource.Cache
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe.config
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\SkeleTest.exe
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\SkeleTest.pdb
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\SkeleTest.csprojResolveAssemblyReference.cache
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\MainWindow.g.cs
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\App.g.cs
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.cache
+C:\Users\Jasque\Desktop\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.lref
+D:\All of Current Code, Good Luck\Skeletest v2 test\SkeleTest\SkeleTest\bin\Debug\SkeleTest.exe.config
+D:\All of Current Code, Good Luck\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\SkeleTest.exe
+D:\All of Current Code, Good Luck\Skeletest v2 test\SkeleTest\SkeleTest\obj\Debug\SkeleTest.pdb
+D:\SkeleTestCurrent\SkeleTest\bin\Debug\SkeleTest.exe.config
+D:\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.exe
+D:\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.pdb
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\bin\Debug\SkeleTest.exe.config
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.exe
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.pdb
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\bin\Debug\SkeleTest.exe
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\bin\Debug\SkeleTest.pdb
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.csprojResolveAssemblyReference.cache
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\MainWindow.g.cs
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\App.g.cs
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.cache
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.lref
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\MainWindow.baml
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.g.resources
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.Properties.Resources.resources
+C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.csproj.GenerateResource.Cache
