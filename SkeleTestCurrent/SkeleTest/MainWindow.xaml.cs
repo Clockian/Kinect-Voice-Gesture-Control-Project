@@ -27,17 +27,14 @@ namespace SkeleTest
     /// </summary>
     public partial class MainWindow : Window
     {
+        KinectSensor sensor;
+        const int SKELETON_COUNT = 6;
+        Skeleton[] allSkeletons = new Skeleton[SKELETON_COUNT];
+
         public MainWindow()
         {
             InitializeComponent();
         }
-
-        //Calling kinect sensor
-        KinectSensor sensor;
-
-        //const variables
-        const int SKELETON_COUNT = 6;
-        Skeleton[] allSkeletons = new Skeleton[SKELETON_COUNT];
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
@@ -54,14 +51,8 @@ namespace SkeleTest
                 sensor.DepthStream.Enable();
                 sensor.SkeletonStream.Enable();
 
-                //Not for xbox 360, for windows kinect
-                //these are used to sense upper body when user is close to sensor
-                //sensor.DepthStream.Range = DepthRange.Near;
-                //sensor.skeletonStream.EnableTrackingInNearRange = true;
-                //sensor.SkeletonStream.TrackingMode = SkeletonTrackingMode.Seated;
-
-
                 sensor.AllFramesReady += new EventHandler<AllFramesReadyEventArgs>(sensor_AllFramesReady);
+
                 sensor.Start();
             }
         }
@@ -126,15 +117,28 @@ namespace SkeleTest
                     return;
                 }
 
-                DepthImagePoint headDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.Head].Position);
-                DepthImagePoint rHandDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.HandRight].Position);
-                DepthImagePoint lHandDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.HandLeft].Position);
-                DepthImagePoint spineDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.Spine].Position);
+                //DepthImagePoint headDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.Head].Position);
+                //DepthImagePoint rHandDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.HandRight].Position);
+                //DepthImagePoint lHandDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.HandLeft].Position);
+                //DepthImagePoint spineDepthPoint = depth.MapFromSkeletonPoint(me.Joints[JointType.Spine].Position);
 
-                ColorImagePoint headColorPoint = depth.MapToColorImagePoint(headDepthPoint.X, headDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
-                ColorImagePoint lHandColorPoint = depth.MapToColorImagePoint(lHandDepthPoint.X, lHandDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
-                ColorImagePoint rHandColorPoint = depth.MapToColorImagePoint(rHandDepthPoint.X, rHandDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
-                ColorImagePoint spineColorPoint = depth.MapToColorImagePoint(spineDepthPoint.X, spineDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
+                //ColorImagePoint headColorPoint = depth.MapToColorImagePoint(headDepthPoint.X, headDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
+                //ColorImagePoint lHandColorPoint = depth.MapToColorImagePoint(lHandDepthPoint.X, lHandDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
+                //ColorImagePoint rHandColorPoint = depth.MapToColorImagePoint(rHandDepthPoint.X, rHandDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
+                //ColorImagePoint spineColorPoint = depth.MapToColorImagePoint(spineDepthPoint.X, spineDepthPoint.Y, ColorImageFormat.RgbResolution640x480Fps30);
+
+                DepthImagePoint headDepthPoint = sensor.CoordinateMapper.MapSkeletonPointToDepthPoint(me.Joints[JointType.Head].Position, DepthImageFormat.Resolution640x480Fps30);
+                DepthImagePoint rHandDepthPoint = sensor.CoordinateMapper.MapSkeletonPointToDepthPoint(me.Joints[JointType.HandRight].Position, DepthImageFormat.Resolution640x480Fps30);
+                DepthImagePoint lHandDepthPoint = sensor.CoordinateMapper.MapSkeletonPointToDepthPoint(me.Joints[JointType.HandLeft].Position, DepthImageFormat.Resolution640x480Fps30);
+                DepthImagePoint spineDepthPoint = sensor.CoordinateMapper.MapSkeletonPointToDepthPoint(me.Joints[JointType.Spine].Position, DepthImageFormat.Resolution640x480Fps30);
+
+
+                DepthImagePoint depthPoint = new DepthImagePoint();
+
+                ColorImagePoint headColorPoint = sensor.CoordinateMapper.MapDepthPointToColorPoint(DepthImageFormat.Resolution640x480Fps30, depthPoint, ColorImageFormat.RgbResolution640x480Fps30);
+                ColorImagePoint lHandColorPoint = sensor.CoordinateMapper.MapDepthPointToColorPoint(DepthImageFormat.Resolution640x480Fps30, depthPoint, ColorImageFormat.RgbResolution640x480Fps30);
+                ColorImagePoint rHandColorPoint = sensor.CoordinateMapper.MapDepthPointToColorPoint(DepthImageFormat.Resolution640x480Fps30, depthPoint, ColorImageFormat.RgbResolution640x480Fps30);
+                ColorImagePoint spineColorPoint = sensor.CoordinateMapper.MapDepthPointToColorPoint(DepthImageFormat.Resolution640x480Fps30, depthPoint, ColorImageFormat.RgbResolution640x480Fps30);
 
                 System.Console.WriteLine("Spine" + headColorPoint.X);
                 System.Console.WriteLine("RightHand" + rHandColorPoint.X);

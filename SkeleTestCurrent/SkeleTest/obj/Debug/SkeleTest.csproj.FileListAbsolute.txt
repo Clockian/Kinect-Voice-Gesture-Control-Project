@@ -76,3 +76,19 @@ C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\M
 C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.g.resources
 C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.Properties.Resources.resources
 C:\Users\Clockian\Desktop\current version\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.csproj.GenerateResource.Cache
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\bin\Debug\SkeleTest.exe.config
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.exe
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.pdb
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\bin\Debug\SkeleTest.exe
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\bin\Debug\SkeleTest.pdb
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.csprojResolveAssemblyReference.cache
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\MainWindow.g.cs
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\App.g.cs
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.cache
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest_MarkupCompile.lref
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\MainWindow.baml
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.g.resources
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.Properties.Resources.resources
+C:\Users\Clockian\Documents\GitHub\Kinect-Voice-Gesture-Control-Project\SkeleTestCurrent\SkeleTest\obj\Debug\SkeleTest.csproj.GenerateResource.Cache
